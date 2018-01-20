@@ -4,11 +4,7 @@ Author: David Wilemski
 Slug: projects
 Status: published
 
-<div>
-
 This is a list of things I am involved in or once was.
-
-</div>
 
   - [Open Run Log](http://openrunlog.org) (2012 - Present)
   - [coursegrab](https://github.com/davidwilemski/coursegrab) (2012)
@@ -20,9 +16,5 @@ This is a list of things I am involved in or once was.
   - [MAAV](http://maav.engin.umich.edu) (2010 - 2012)
   - [DrawWith.Me](http://drawwith.me/) (2011 - 2012)
 
-<div>
-
 Many of my smaller or less active projects that are not mentioned here
-can be found on my [GitHub page](http://github.com/davidwilemski).
-
-</div>
+can be found on my [GitHub page](https://github.com/davidwilemski).
