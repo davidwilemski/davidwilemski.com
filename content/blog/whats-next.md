@@ -6,14 +6,14 @@ Category: blog
 Slug: whats-next
 Status: published
 
-As I\'ve had this blog setup for a few months now and have just a few
-posts I\'m setting some new goals for me to stick with. I don\'t wish to
+As I've had this blog setup for a few months now and have just a few
+posts I'm setting some new goals for me to stick with. I don't wish to
 commit too much time here as I have lots of exciting other things that
 are grabbing my attention - these you will hear about soon enough. There
 are also lots of other things that need my attention which are not as
 exciting - such as keeping up with my classwork.
 
-\"So\", you might ask, \"what can I expect to see here?\"
+"So", you might ask, "what can I expect to see here?"
 
 Starting tomorrow, I plan on taking one photo per day and posting it
 here. This photo will be taken with a camera and will not be a
@@ -27,5 +27,5 @@ I will be working on a custom theme for this blog that will closely
 resemble that of [DavidWilemski.com](http://davidwilemski.com/). I just
 have to populate that site with my own projects first.
 
-Be on the look out for my photo of the day and first weekly post! If you
-were feeling really generous you could even subscribe to my feed\...
+Be on the look out for my photo of the day and first weekly post\! If
+you were feeling really generous you could even subscribe to my feed...

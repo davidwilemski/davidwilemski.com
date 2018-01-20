@@ -13,14 +13,14 @@ half). The highlights are that I took first overall with a time of
 38:12. Also, I got a really awesome race award. It was handmade and now
 I have a collection of unique race awards (including the one from [my
 first
-win](http://davidwilemski.com/blog/2012/10/summerfall-recap/ "Summer/Fall Recap"))!
+win](http://davidwilemski.com/blog/2012/10/summerfall-recap/ "Summer/Fall Recap"))\!
 
 This is my second ever race win and my first race of the year - looks
-like things are off to a great start!
+like things are off to a great start\!
 
-If you want to read more details, I\'ve posted a more in-depth report
+If you want to read more details, I've posted a more in-depth report
 here: http://openrunlog.org/u/david/run/51201295f69d202ebd0e09c3
 
  
 
-\[gallery ids=\"415,418,417,416,414\"\]
+\[gallery ids="415,418,417,416,414"\]

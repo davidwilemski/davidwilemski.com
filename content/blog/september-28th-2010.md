@@ -9,5 +9,5 @@ Attachments: blog/wp-content/uploads/2010/09/wpid-IMG_20100928_141906.jpg
 
 ![image](http://oromis.davidwilemski.com/blog/wp-content/uploads/2010/09/wpid-IMG_20100928_141906.jpg)
 
-It\'s just another rainy day here in Ann Arbor. So that means we need to
+It's just another rainy day here in Ann Arbor. So that means we need to
 water the new landscaping.

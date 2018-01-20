@@ -10,7 +10,7 @@ Attachments: blog/wp-content/uploads/2011/11/WordCamp2011_IntroWordPressSecurity
 I promised to upload the slides from my WordCamp Detroit talk so that
 people could use them as a reference.
 
-I\'ve uploaded them to slideshare and made a PDF of them available as
+I've uploaded them to slideshare and made a PDF of them available as
 well:
 
  

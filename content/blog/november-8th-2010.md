@@ -9,4 +9,4 @@ Attachments: blog/wp-content/uploads/2010/11/wpid-IMG_20101109_173620.jpg
 
 ![image](http://oromis.davidwilemski.com/blog/wp-content/uploads/2010/11/wpid-IMG_20101109_173620.jpg)
 
-The magic bus kiosk has been having issues for a few days now\... 
+The magic bus kiosk has been having issues for a few days now...

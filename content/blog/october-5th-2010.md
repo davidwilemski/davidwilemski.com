@@ -11,4 +11,4 @@ Attachments: blog/wp-content/uploads/2010/10/wpid-IMG_20101005_160319.jpg
 
 A very interesting pair of shoes to say the least.
 
-
+>

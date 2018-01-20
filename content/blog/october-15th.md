@@ -9,4 +9,4 @@ Attachments: blog/wp-content/uploads/2010/10/wpid-IMG_20101015_204546.jpg
 
 ![image](http://oromis.davidwilemski.com/blog/wp-content/uploads/2010/10/wpid-IMG_20101015_204546.jpg)
 
-Alec\'s old phone
+Alec's old phone

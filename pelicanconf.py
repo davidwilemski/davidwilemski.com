@@ -2,6 +2,16 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+THEME = '/Users/dtw/dev/blue-penguin'
+
+# Theme optional settings (theme set to blue-penguin)
+ARCHIVES_URL = 'archives'
+ARCHIVES_SAVE_AS = 'archives/index.html'
+
+MENU_INTERNAL_PAGES = (
+    ('Archives', ARCHIVES_URL, ARCHIVES_SAVE_AS),
+)
+
 AUTHOR = 'David Wilemski'
 SITENAME = "David's Blog"
 SITEURL = ''
@@ -32,7 +42,7 @@ SOCIAL = (('Instagram', 'https://instagram.com/davidwilemski'),
           ('Github', 'https://github.com/davidwilemski'),
           ('Twitter', 'https://twitter.com/davidwilemski'),)
 
-DEFAULT_PAGINATION = 1
+DEFAULT_PAGINATION = 4
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True

@@ -16,5 +16,5 @@ splits were about 6:24, 6:44, 7:08 and I finished 15th overall (14 male,
 1 female - results [here](http://speedyraces.net/11msc.html)) and 6th in
 my age group. Meh.
 
-The 4th of July will be the Firecracker 5K here in Ann Arbor, I\'m
-REALLY hoping I can finally go sub 20.
+The 4th of July will be the Firecracker 5K here in Ann Arbor, I'm REALLY
+hoping I can finally go sub 20.

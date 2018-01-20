@@ -9,4 +9,4 @@ Attachments: blog/wp-content/uploads/2010/09/wpid-IMG_20100927_155631.jpg
 
 ![image](http://oromis.davidwilemski.com/blog/wp-content/uploads/2010/09/wpid-IMG_20100927_155631.jpg)
 
-Fall colors; coming to a tree near you!
+Fall colors; coming to a tree near you\!

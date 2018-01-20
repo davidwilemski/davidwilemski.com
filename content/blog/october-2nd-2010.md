@@ -9,15 +9,14 @@ Attachments: blog/wp-content/uploads/2010/10/wpid-IMG_20101002_173805.jpg
 
 ![image](http://oromis.davidwilemski.com/blog/wp-content/uploads/2010/10/wpid-IMG_20101002_173805.jpg)
 
-Today was yet another rainy day here and so I thought that this
-wouldn\'t turn out so well. Surprisingly, the color details are pretty
-darn good - perhaps I should have stopped for a bit longer to improve
-the focus.
+Today was yet another rainy day here and so I thought that this wouldn't
+turn out so well. Surprisingly, the color details are pretty darn good -
+perhaps I should have stopped for a bit longer to improve the focus.
 
 These gigantic leaves really caught my eye today, even while rushing
 through the rain. Also, the contrast between the giant green leaves and
 tiny colorful flowers is just great. I must go by here a good few times
-per week, so just think about what else I could be missing!
+per week, so just think about what else I could be missing\!
 
-EDIT: my phone didn\'t publish this yesterday when I asked it to. Oops!
+EDIT: my phone didn't publish this yesterday when I asked it to. Oops\!
 Sorry.

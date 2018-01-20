@@ -6,7 +6,7 @@ Category: blog
 Slug: hello-world-2
 Status: published
 
-I\'m starting this blog to record my thoughts on various topics.
+I'm starting this blog to record my thoughts on various topics.
 
 As I am a Computer Science student and have been doing lots of web and
 mobile development as of late, many of my posts will focus on my

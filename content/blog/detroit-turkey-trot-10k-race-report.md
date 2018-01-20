@@ -23,7 +23,7 @@ crossed the 5 mile mark at 29:55 and was extremely happy to see that
 everything was going according to plan.
 
 The last 1.2 was a bit rough it turns out but I still finished in 37:34
-which is a huge PR of almost four and a half minutes! Awesome.
+which is a huge PR of almost four and a half minutes\! Awesome.
 
 Then it was time to go chow down on some delicious Thanksgiving day
 food. The Turkey Trot was a great start to the day though, even if I did
