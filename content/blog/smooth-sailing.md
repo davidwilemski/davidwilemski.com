@@ -1,7 +1,8 @@
 Title: Smooth Sailing
 Date: 2012-03-24 00:02
 Author: David Wilemski
-Category: Running
+Tags: Running
+Category: blog
 Slug: smooth-sailing
 Status: published
 

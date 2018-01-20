@@ -1,7 +1,8 @@
 Title: October 6th, 2010
 Date: 2010-10-07 17:25
 Author: David Wilemski
-Category: Uncategorized
+Tags: Uncategorized
+Category: blog
 Slug: october-6th-2010
 Status: published
 

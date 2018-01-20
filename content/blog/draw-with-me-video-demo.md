@@ -1,7 +1,8 @@
 Title: Draw With Me video demo
 Date: 2011-04-06 01:48
 Author: David Wilemski
-Category: Software
+Tags: Software
+Category: blog
 Slug: draw-with-me-video-demo
 Status: published
 

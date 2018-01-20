@@ -1,7 +1,8 @@
 Title: November 20th, 2010 
 Date: 2010-11-21 04:36
 Author: David Wilemski
-Category: photo of the day
+Tags: photo of the day
+Category: blog
 Slug: november-20th-2010
 Status: published
 Attachments: blog/wp-content/uploads/2010/11/wpid-IMG_20101120_210540.jpg

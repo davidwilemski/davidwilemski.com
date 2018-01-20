@@ -1,7 +1,8 @@
 Title: 2012 Spring Running Plan
 Date: 2012-03-05 15:47
 Author: David Wilemski
-Category: Running
+Tags: Running
+Category: blog
 Slug: 2012-spring-running-plan
 Status: published
 

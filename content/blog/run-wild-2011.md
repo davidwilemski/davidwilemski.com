@@ -1,7 +1,8 @@
 Title: Race Report: Run Wild for the Detroit Zoo 2011
 Date: 2011-09-22 15:50
 Author: David Wilemski
-Category: Races, Running
+Tags: Races, Running
+Category: blog
 Slug: run-wild-2011
 Status: published
 

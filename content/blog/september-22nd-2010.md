@@ -1,7 +1,8 @@
 Title: September 22nd, 2010
 Date: 2010-09-23 01:34
 Author: David Wilemski
-Category: photo of the day
+Tags: photo of the day
+Category: blog
 Slug: september-22nd-2010
 Status: published
 Attachments: blog/wp-content/uploads/2010/09/wpid-IMG_20100922_153657.jpg

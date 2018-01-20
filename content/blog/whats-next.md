@@ -1,7 +1,8 @@
 Title: What's Next?
 Date: 2010-09-22 00:55
 Author: David Wilemski
-Category: Uncategorized
+Tags: Uncategorized
+Category: blog
 Slug: whats-next
 Status: published
 

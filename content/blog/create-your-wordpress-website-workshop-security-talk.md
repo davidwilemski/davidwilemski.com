@@ -1,7 +1,8 @@
 Title: Create Your WordPress Website Workshop Security Talk
 Date: 2012-04-06 14:35
 Author: David Wilemski
-Category: Security, Web Dev
+Tags: Security, Web Dev
+Category: blog
 Slug: create-your-wordpress-website-workshop-security-talk
 Status: published
 

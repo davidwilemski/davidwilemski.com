@@ -1,7 +1,8 @@
 Title: Race Report: Big House Big Heart 2011
 Date: 2011-10-16 21:01
 Author: David Wilemski
-Category: Races, Running
+Tags: Races, Running
+Category: blog
 Slug: race-report-big-house-big-heart-2011
 Status: published
 

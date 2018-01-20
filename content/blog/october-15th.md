@@ -1,7 +1,8 @@
 Title: October 15th 
 Date: 2010-10-26 01:06
 Author: David Wilemski
-Category: photo of the day
+Tags: photo of the day
+Category: blog
 Slug: october-15th
 Status: published
 Attachments: blog/wp-content/uploads/2010/10/wpid-IMG_20101015_204546.jpg

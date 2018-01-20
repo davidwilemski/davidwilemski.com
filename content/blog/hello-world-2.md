@@ -1,7 +1,8 @@
 Title: Hello, World!
 Date: 2010-07-25 23:23
 Author: David Wilemski
-Category: Uncategorized
+Tags: Uncategorized
+Category: blog
 Slug: hello-world-2
 Status: published
 

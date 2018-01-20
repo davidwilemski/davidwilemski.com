@@ -1,7 +1,8 @@
 Title: Bayshore 10k 2012 Race Report
 Date: 2012-05-28 18:07
 Author: David Wilemski
-Category: Races, Running
+Tags: Races, Running
+Category: blog
 Slug: bayshore-10k-2012-race-report
 Status: published
 

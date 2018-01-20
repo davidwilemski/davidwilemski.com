@@ -1,7 +1,8 @@
 Title: October 10th, 2010
 Date: 2010-10-15 00:45
 Author: David Wilemski
-Category: photo of the day
+Tags: photo of the day
+Category: blog
 Slug: october-10th-2010
 Status: published
 Attachments: blog/wp-content/uploads/2010/10/IMG_20101010_194025.jpg

@@ -1,7 +1,8 @@
 Title: Race report: Ann Arbor Firecracker 5k 2011
 Date: 2011-07-04 23:40
 Author: David Wilemski
-Category: Races, Running
+Tags: Races, Running
+Category: blog
 Slug: race-report-ann-arbor-firecracker-5k-2011
 Status: published
 

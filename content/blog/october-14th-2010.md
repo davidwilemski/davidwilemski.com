@@ -1,7 +1,8 @@
 Title: October 14th, 2010
 Date: 2010-10-15 00:58
 Author: David Wilemski
-Category: photo of the day
+Tags: photo of the day
+Category: blog
 Slug: october-14th-2010
 Status: published
 Attachments: blog/wp-content/uploads/2010/10/IMG_20101014_221653.jpg

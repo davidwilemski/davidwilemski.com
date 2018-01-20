@@ -1,7 +1,8 @@
 Title: Race Report: Dexter-Ann Arbor 5K
 Date: 2011-06-11 14:07
 Author: David Wilemski
-Category: Races, Running
+Tags: Races, Running
+Category: blog
 Slug: race-report-dexter-ann-arbor-5k
 Status: published
 

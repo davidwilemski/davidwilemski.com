@@ -1,7 +1,8 @@
 Title: Preemptive photo of the day
 Date: 2010-09-22 01:18
 Author: David Wilemski
-Category: photo of the day
+Tags: photo of the day
+Category: blog
 Slug: preemptive-photo-of-the-day
 Status: published
 Attachments: blog/wp-content/uploads/2010/09/wpid-IMG_20100918_150113.jpg

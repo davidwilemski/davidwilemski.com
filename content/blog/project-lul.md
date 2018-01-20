@@ -1,7 +1,8 @@
 Title: Project Lul
 Date: 2012-11-11 22:13
 Author: David Wilemski
-Category: Life
+Tags: Life
+Category: blog
 Slug: project-lul
 Status: published
 

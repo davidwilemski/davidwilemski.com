@@ -1,7 +1,8 @@
 Title: October 2nd, 2010 
 Date: 2010-10-03 02:36
 Author: David Wilemski
-Category: photo of the day
+Tags: photo of the day
+Category: blog
 Slug: october-2nd-2010
 Status: published
 Attachments: blog/wp-content/uploads/2010/10/wpid-IMG_20101002_173805.jpg

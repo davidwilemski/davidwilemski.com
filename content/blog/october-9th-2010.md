@@ -1,7 +1,8 @@
 Title: October 9th, 2010
 Date: 2010-10-09 13:50
 Author: David Wilemski
-Category: photo of the day
+Tags: photo of the day
+Category: blog
 Slug: october-9th-2010
 Status: published
 Attachments: blog/wp-content/uploads/2010/10/IMG_20101009_121147.jpg

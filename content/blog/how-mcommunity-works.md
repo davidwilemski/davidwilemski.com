@@ -1,7 +1,8 @@
 Title: How MCommunity Works
 Date: 2011-08-17 02:05
 Author: David Wilemski
-Category: Web Dev
+Tags: Web Dev
+Category: blog
 Slug: how-mcommunity-works
 Status: published
 

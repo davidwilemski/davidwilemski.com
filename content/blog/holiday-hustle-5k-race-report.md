@@ -1,7 +1,8 @@
 Title: Holiday Hustle 5k: Race Report
 Date: 2012-12-02 09:36
 Author: David Wilemski
-Category: Races, Running
+Tags: Races, Running
+Category: blog
 Slug: holiday-hustle-5k-race-report
 Status: published
 

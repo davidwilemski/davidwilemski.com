@@ -1,7 +1,8 @@
 Title: Disabled CAPTCHA on comments
 Date: 2012-03-15 01:51
 Author: David Wilemski
-Category: Uncategorized
+Tags: Uncategorized
+Category: blog
 Slug: disabled-captcha-on-comments
 Status: published
 

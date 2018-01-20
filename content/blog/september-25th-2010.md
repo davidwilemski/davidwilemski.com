@@ -1,7 +1,8 @@
 Title: September 25th, 2010 
 Date: 2010-09-25 23:01
 Author: David Wilemski
-Category: photo of the day
+Tags: photo of the day
+Category: blog
 Slug: september-25th-2010
 Status: published
 Attachments: blog/wp-content/uploads/2010/09/wpid-IMG_20100925_185315.jpg

@@ -1,7 +1,8 @@
 Title: Redis
 Date: 2012-10-31 15:05
 Author: David Wilemski
-Category: Software, Web Dev
+Tags: Software, Web Dev
+Category: blog
 Slug: redis
 Status: published
 

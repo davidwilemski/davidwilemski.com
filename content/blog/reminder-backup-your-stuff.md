@@ -1,7 +1,8 @@
 Title: Reminder: Backup Your Stuff!
 Date: 2012-11-02 17:53
 Author: David Wilemski
-Category: Software
+Tags: Software
+Category: blog
 Slug: reminder-backup-your-stuff
 Status: published
 

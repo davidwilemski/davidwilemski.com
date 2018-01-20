@@ -1,7 +1,8 @@
 Title: Mediocre Marathon 'Training'
 Date: 2014-05-13 01:04
 Author: David Wilemski
-Category: Running, Uncategorized
+Tags: Running, Uncategorized
+Category: blog
 Slug: mediocre-marathon-training
 Status: published
 

@@ -1,7 +1,8 @@
 Title: WebPastr revisited
 Date: 2011-05-26 03:00
 Author: David Wilemski
-Category: Web Dev
+Tags: Web Dev
+Category: blog
 Slug: webpastr-revisited
 Status: published
 Attachments: blog/wp-content/uploads/2011/05/Visitors-Overview-Google-Analytics.png

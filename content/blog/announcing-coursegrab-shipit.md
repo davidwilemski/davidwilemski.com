@@ -1,7 +1,8 @@
 Title: Announcing coursegrab: SHIPIT
 Date: 2012-11-18 22:53
 Author: David Wilemski
-Category: Software, Web Dev
+Tags: Software, Web Dev
+Category: blog
 Slug: announcing-coursegrab-shipit
 Status: published
 

@@ -1,7 +1,8 @@
 Title: September 29th, 2010 
 Date: 2010-09-30 01:31
 Author: David Wilemski
-Category: photo of the day
+Tags: photo of the day
+Category: blog
 Slug: september-29th-2010
 Status: published
 Attachments: blog/wp-content/uploads/2010/09/wpid-IMG_20100929_205742.jpg

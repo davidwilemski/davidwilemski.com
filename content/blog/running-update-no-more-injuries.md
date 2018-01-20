@@ -1,7 +1,8 @@
 Title: Running Update: No more injuries
 Date: 2011-05-29 22:24
 Author: David Wilemski
-Category: Running
+Tags: Running
+Category: blog
 Slug: running-update-no-more-injuries
 Status: published
 Attachments: blog/wp-content/uploads/2011/05/242287_2127175379995_1264253926_32619092_892302_o.jpg

@@ -1,7 +1,8 @@
 Title: Thoughts from a new Android developer
 Date: 2010-07-27 01:21
 Author: David Wilemski
-Category: Android, Development
+Tags: Android, Development
+Category: blog
 Slug: thoughts-from-a-new-android-developer
 Status: published
 Attachments: blog/wp-content/uploads/2010/07/Screen-shot-2010-07-22-at-9.34.23-PM.png, blog/wp-content/uploads/2010/07/Screen-shot-2010-07-23-at-1.52.58-AM.png

@@ -1,7 +1,8 @@
 Title: MCommunity XSS
 Date: 2011-08-12 22:31
 Author: David Wilemski
-Category: Security, Web Dev
+Tags: Security, Web Dev
+Category: blog
 Slug: mcommunity-xss
 Status: published
 Attachments: blog/wp-content/uploads/2011/08/mcommunity.png, blog/wp-content/uploads/2011/08/mcommunity-1.png

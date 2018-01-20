@@ -1,7 +1,8 @@
 Title: Winter Training Recap
 Date: 2013-04-11 01:49
 Author: David Wilemski
-Category: Races, Running
+Tags: Races, Running
+Category: blog
 Slug: winter-training-recap
 Status: published
 Attachments: blog/wp-content/uploads/2013/04/Open-Run-Log-Dashboard-1.png, blog/wp-content/uploads/2013/04/164418_4469885140855_1002188918_n.jpg

@@ -1,7 +1,8 @@
 Title: Ice Cube 10k Race Report
 Date: 2013-02-16 18:36
 Author: David Wilemski
-Category: Races, Running
+Tags: Races, Running
+Category: blog
 Slug: ice-cube-10k-race-report
 Status: published
 Attachments: blog/wp-content/uploads/2013/02/2013-02-16-12.03.47.jpg, blog/wp-content/uploads/2013/02/2013-02-16-11.59.30.jpg, blog/wp-content/uploads/2013/02/2013-02-16-11.59.05.jpg, blog/wp-content/uploads/2013/02/2013-02-16-11.58.53.jpg, blog/wp-content/uploads/2013/02/2013-02-16-10.43.27.jpg

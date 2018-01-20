@@ -1,7 +1,8 @@
 Title: The launcher is not the problem
 Date: 2010-09-23 02:16
 Author: David Wilemski
-Category: Android, Opinion
+Tags: Android, Opinion
+Category: blog
 Slug: the-launcher-is-not-the-problem
 Status: published
 

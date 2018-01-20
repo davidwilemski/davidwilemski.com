@@ -1,7 +1,8 @@
 Title: How to tie your shoes...
 Date: 2012-02-18 14:21
 Author: David Wilemski
-Category: Running
+Tags: Running
+Category: blog
 Slug: how-to-tie-shoe
 Status: published
 

@@ -1,7 +1,8 @@
 Title: Winter and Spring 2014
 Date: 2014-05-05 15:16
 Author: David Wilemski
-Category: Races, Running
+Tags: Races, Running
+Category: blog
 Slug: winter-and-spring-2014
 Status: published
 

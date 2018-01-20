@@ -1,7 +1,8 @@
 Title: Downtime
 Date: 2012-02-08 13:25
 Author: David Wilemski
-Category: Uncategorized
+Tags: Uncategorized
+Category: blog
 Slug: downtime
 Status: published
 

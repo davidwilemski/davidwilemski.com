@@ -1,7 +1,8 @@
 Title: Presenting: Draw With Me
 Date: 2011-04-03 20:46
 Author: David Wilemski
-Category: Uncategorized
+Tags: Uncategorized
+Category: blog
 Slug: presenting-draw-with-me
 Status: published
 

@@ -1,7 +1,8 @@
 Title: Winter Update
 Date: 2011-02-07 20:31
 Author: David Wilemski
-Category: photo of the day
+Tags: photo of the day
+Category: blog
 Slug: winter-update
 Status: published
 Attachments: blog/wp-content/uploads/170626_1869069847518_1264253926_32257761_3035691_o.jpg

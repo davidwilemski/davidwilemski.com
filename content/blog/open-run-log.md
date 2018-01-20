@@ -1,7 +1,8 @@
 Title: Open Run Log
 Date: 2012-12-27 18:31
 Author: David Wilemski
-Category: Running, Software, Web Dev
+Tags: Running, Software, Web Dev
+Category: blog
 Slug: open-run-log
 Status: published
 Attachments: blog/wp-content/uploads/2012/12/year.png

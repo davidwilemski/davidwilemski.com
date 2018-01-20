@@ -1,7 +1,8 @@
 Title: Bayshore Half Marathon Race Report
 Date: 2013-05-28 09:44
 Author: David Wilemski
-Category: Races, Running
+Tags: Races, Running
+Category: blog
 Slug: bayshore-half-marathon-race-report
 Status: published
 

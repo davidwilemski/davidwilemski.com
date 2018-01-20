@@ -1,7 +1,8 @@
 Title: Summer/Fall Recap
 Date: 2012-10-28 11:52
 Author: David Wilemski
-Category: Races, Running
+Tags: Races, Running
+Category: blog
 Slug: summerfall-recap
 Status: published
 Attachments: blog/wp-content/uploads/2012/10/weeklymileagepostbayshore.png, blog/wp-content/uploads/2012/10/2012-08-26-09.33.53small.jpeg

@@ -1,7 +1,8 @@
 Title: October 3rd, 2010
 Date: 2010-10-04 02:01
 Author: David Wilemski
-Category: photo of the day
+Tags: photo of the day
+Category: blog
 Slug: october-3rd-2010
 Status: published
 Attachments: blog/wp-content/uploads/2010/10/IMG_20101003_140240.jpg

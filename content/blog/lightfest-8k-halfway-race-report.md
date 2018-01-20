@@ -1,7 +1,8 @@
 Title: Lightfest 8k: halfway race report
 Date: 2012-12-02 09:12
 Author: David Wilemski
-Category: Races, Running
+Tags: Races, Running
+Category: blog
 Slug: lightfest-8k-halfway-race-report
 Status: published
 

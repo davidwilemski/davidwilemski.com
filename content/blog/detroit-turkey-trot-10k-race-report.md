@@ -1,7 +1,8 @@
 Title: Detroit Turkey Trot 10k: Race Report
 Date: 2012-12-02 09:20
 Author: David Wilemski
-Category: Races, Running
+Tags: Races, Running
+Category: blog
 Slug: detroit-turkey-trot-10k-race-report
 Status: published
 
