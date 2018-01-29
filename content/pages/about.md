@@ -4,20 +4,18 @@ Author: David Wilemski
 Slug: about
 Status: published
 
-Hey, I'm David\! I am currently finishing up my degree at the University
-of Michigan where I study computer science before moving to the Bay Area
-to work for Facebook after I graduate. I'm a co-founder of [Creators
-Co-op](http://creators.coop) - a live-in workspace for potential student
-entrepreneurs - and am an active member of
-[MRun](http://mrun.clubrunning.org), Michigan's running club.
+Hey, I'm David\! I work as a Software Engineer at Facebook, working on
+Instagram.  Previously I worked in infrastructure for FB on container
+technology. I'm also an active member of [West Valley Track
+Club](http://www.westvalleytc.com/).
 
-I have had internships at [Duo Security](http://www.duosecurity.com) and
-Facebook during my time in school. I've been fortunate to work on teams
-that are passionate about solving some of the biggest problems in
-computer security and  scaling a site to unprecedented heights.
+I studied Computer Science at the University of Michigan where I grew
+interested in security, distributed systems, and collaborative applications. I
+had internships at [Duo Security](http://www.duosecurity.com) and Facebook
+during my time in school. At Michigan, I was a founder of [Creators
+Co-op](http://creatorspace.co), a live-in workspace for potential student
+entrepreneurs, and was a member of [MRun](http://mrun.clubrunning.org),
+Michigan's running club.
 
-This blog is largely about  running but I occasionally touch on other
-topics.
-
-If you'd like to get ahold of me, the best way to do so is via email.
-You can reach me at **david \[at\] davidwilemski \[dot\] com**.
+You can reach me at [@davidwilemski](https://twitter.com/davidwilemski) on
+Twitter or **david \[at\] davidwilemski \[dot\] com**.
