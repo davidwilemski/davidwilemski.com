@@ -3,7 +3,7 @@ Date: 2018-01-28 23:50
 Author: David Wilemski
 Category: blog
 Slug: productivity-new-codebase
-Status: draft
+Status: published
 
 At the end of last year, I moved to a new team at work. 
 
