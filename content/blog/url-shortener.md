@@ -3,7 +3,7 @@ Date: 2018-02-05 23:25
 Author: David Wilemski
 Category: blog
 Slug: url-shortener
-Status: draft
+Status: published
 
 I wrote my own URL shortener.
 
