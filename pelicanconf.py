@@ -42,7 +42,7 @@ SOCIAL = (('Instagram', 'https://instagram.com/davidwilemski'),
           ('Github', 'https://github.com/davidwilemski'),
           ('Twitter', 'https://twitter.com/davidwilemski'),)
 
-DEFAULT_PAGINATION = 4
+DEFAULT_PAGINATION = 1
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
