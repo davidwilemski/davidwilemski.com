@@ -5,7 +5,7 @@ Slug: about
 Status: published
 
 Hey, I'm David\! I work as a Software Engineer at Facebook, working on
-Instagram.  Previously I worked in infrastructure for FB on container
+Instagram.  Previously I worked on FB's infrastructure, focusing on container
 technology. I'm also an active member of [West Valley Track
 Club](http://www.westvalleytc.com/).
 
