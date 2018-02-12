@@ -45,4 +45,4 @@ SOCIAL = (('Instagram', 'https://instagram.com/davidwilemski'),
 DEFAULT_PAGINATION = 1
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
