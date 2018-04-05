@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=oromis
+SSH_HOST=davidwilemski.com
 SSH_PORT=22
-SSH_USER=david
-SSH_TARGET_DIR=/var/www
+SSH_USER=root
+SSH_TARGET_DIR=/var/www/html
 
 S3_BUCKET=my_s3_bucket
 
