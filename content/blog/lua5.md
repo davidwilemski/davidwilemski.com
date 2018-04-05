@@ -3,7 +3,7 @@ Author: David Wilemski
 Category: blog
 Slug: notes-from-the-implementation-of-lua
 Date: 2018-03-28 11:15pm
-Status: draft
+Status: published
 Tags: papers
 
 Inspired by [a tweet from @munificentbob](https://twitter.com/munificentbob/status/974147769475547136)) I recently read this paper about Lua. I took some notes while reading and though I'd dump them here. Some of the implementation decisions and data structures were pretty interesting to me. These notes are pretty raw and only a little bit cleaned up from my handwritten shorthand.
