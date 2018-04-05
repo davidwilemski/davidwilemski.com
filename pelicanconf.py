@@ -7,6 +7,7 @@ THEME = '/Users/dtw/dev/blue-penguin'
 # Theme optional settings (theme set to blue-penguin)
 ARCHIVES_URL = 'archives'
 ARCHIVES_SAVE_AS = 'archives/index.html'
+ARTICLE_URL = '{slug}'
 
 MENU_INTERNAL_PAGES = (
     ('Archives', ARCHIVES_URL, ARCHIVES_SAVE_AS),
