@@ -1,7 +1,7 @@
 Title: Notes from reading The Implementation of Lua 5.0
 Author: David Wilemski
 Category: blog
-Slug: the-implementation-of-lua
+Slug: notes-from-the-implementation-of-lua
 Date: 2018-03-28 11:15pm
 Status: draft
 Tags: papers
@@ -14,6 +14,9 @@ Many things that were very interesting to me in the paper but these were some of
 - Upvalues
 - Some of the optimizations in the byte code for making common Lua operations fast.
 - The use of the C stack for tracking coroutine execution.
+
+I don't have very much experience with building interpreters or compilers - an undergrad compilers class and a fair bit of reading about CPython implementation details - but still found this paper very readable. It touches on concepts at a high level and seems to have fairly good references for deeper reading if you want to learn more about a given topic. With all that said, here are the notes I took:
+
 
 ## Lua 5 vs Lua 4
 - Register-based VM (instead of stack based).
