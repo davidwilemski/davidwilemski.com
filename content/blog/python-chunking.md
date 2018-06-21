@@ -4,7 +4,7 @@ Author: David Wilemski
 Category: blog
 Slug: python-chunking
 Tags: python, programming
-Status: draft
+Status: published
 
 A few weeks ago I had occasion to chunk a potentially large list of items into smaller lists for processing in batches in a Python codebase. While I remembered that `itertools` didn't have such functionality built-in, [it did have a recipe to do so, called `grouper`](https://docs.python.org/3.6/library/itertools.html#itertools-recipes). For my use case, this recipe worked fine so I used it but it got me wondering about why Python didn't provide what seems to be a fairly common operation (in another codebase I'd had occasion to do this a lot and we had a helper function for it). This led me down two paths.
 
