@@ -9,6 +9,7 @@ Status: draft
 Frequently when processing data, it's useful to slice it by a certain dimension. It can quickly answer all sorts of questions and help 
 
 Some examples of the types of questions it might answer are:
+
 - What are the requests being made to my service, bucketed by source?  (Who is hammering my service?)
 - What are the most common errors happening in my logs?
 - Are those errors happening at an even rate across machines or are there specific outliers due to some other property?
