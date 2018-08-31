@@ -4,7 +4,7 @@ Author: David Wilemski
 Category: blog
 Slug: python-group-by
 Tags: python, programming
-Status: draft
+Status: published
 
 Frequently when processing data, it's useful to slice it by a certain dimension. It can quickly answer all sorts of questions and help 
 
