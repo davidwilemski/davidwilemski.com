@@ -1,9 +1,9 @@
 Title: A Response to Two-Factor Authentication Might Not Keep You Safe
-Date: 2019-02-10 15:19
+Date: 2019-02-10 16:22
 Author: David Wilemski
 Category: blog
 Slug: 2fa-safe-enough
-Status: draft
+Status: published
 
 Last week I read [an OpEd in the NYTimes with the above title](https://www.nytimes.com/2019/01/27/opinion/2fa-cyberattacks-security.html) that I found to miss the mark a fair bit. It may even result in discouraging people from setting up this important protection on their most critical accounts, which would be a most unfortunate outcome. You should enable two-factor authentication on any account that you can. The end of the article concludes with a call for more data about the effectiveness of two-factor against various forms of account compromise which I can entirely agree with; however, this is buried deeply beneath paragraphs casting doubt on the effectiveness of two-factor auth.
 
