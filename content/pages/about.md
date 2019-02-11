@@ -20,4 +20,4 @@ entrepreneurs, and was a member of [MRun](http://mrun.clubrunning.org),
 Michigan's running club.
 
 You can reach me at [@davidwilemski](https://twitter.com/davidwilemski) on
-Twitter or **david \[at\] davidwilemski \[dot\] com**.
+Twitter or **david \[at\] wilemski \[dot\] org**.
