@@ -4,10 +4,12 @@ Author: David Wilemski
 Slug: about
 Status: published
 
-Hey, I'm David\! I work as a Software Engineer at Facebook, working on
-Instagram.  Previously I worked on FB's infrastructure, focusing on container
-technology. I'm also an active member of [West Valley Track
-Club](http://www.westvalleytc.com/).
+Hey, I'm David\! I'm a developer working on [Strava](https://strava.com)'s
+infrastructure team.  Previously I worked on FB's infrastructure, focusing on
+container technology and later on Instagram Direct. I'm also an active member
+of [West Valley Track Club](http://www.westvalleytc.com/). I mostly write here
+about programming and infrastructure topics as well as dumping notes from books
+or papers that I read.
 
 I studied Computer Science at the University of Michigan where I grew
 interested in security, distributed systems, and collaborative applications. I
