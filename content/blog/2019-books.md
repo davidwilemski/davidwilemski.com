@@ -3,7 +3,7 @@ Author: David Wilemski
 Category: blog
 Slug: 2019-books
 Date: 2019-12-31 3:31pm
-Status: draft
+Status: published
 
 I read over 25 new books this year and re-read a bunch of old favorites as well. I wanted to cover some of my favorites here as well as those that I've been dragging my feet on finishing even though they're on topics I'm interested in or stories I enjoy.
 
