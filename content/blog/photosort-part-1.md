@@ -4,7 +4,7 @@ Author: David Wilemski
 Category: blog
 Tags: programming
 Slug: photosort-part-1
-Status: draft
+Status: published
 
 _This is the initial post in what is intended to be a series where I write about what I learn while reverse engineering photo file formats with the goal of reading metadata (e.g. Exif). It isn't meant to be a definitive guide to the format but rather documenting the thought process of taking the format apart by only looking at file data rather than reading specifications, library implementations, or other more qualified information sources. Why? Because sometimes using `hexdump` and hacking together a custom tool is just more fun._
 
