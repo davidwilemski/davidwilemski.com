@@ -2,7 +2,12 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-THEME = '/Users/dtw/dev/blue-penguin'
+import os
+from pathlib import Path
+
+HOME = str(Path.home())
+
+THEME = os.path.join(HOME, 'dev/blue-penguin')
 
 # Theme optional settings (theme set to blue-penguin)
 ARCHIVES_URL = 'archives'
