@@ -1,7 +1,6 @@
 Title: Sencha Tea
 Date: 2013-12-10 20:30
 Author: David Wilemski
-Tags: Life
 Category: blog
 Tags: tea
 Slug: sencha-tea
