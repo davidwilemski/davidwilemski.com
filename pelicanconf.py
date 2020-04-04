@@ -42,11 +42,25 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = []
 
+REL_ME_LINKS = "https://github.com/davidwilemski"
+
 # Social widget
 SOCIAL = (('Instagram', 'https://instagram.com/davidwilemski'),
           ('Strava', 'https://strava.com/athletes/dtw0'),
           ('Github', 'https://github.com/davidwilemski'),
           ('Twitter', 'https://twitter.com/davidwilemski'),)
+SOCIAL = {
+    'me': [
+              ('Instagram', 'https://instagram.com/davidwilemski'),
+              ('Strava', 'https://strava.com/athletes/dtw0'),
+              ('Github', 'https://github.com/davidwilemski'),
+              ('Twitter', 'https://twitter.com/davidwilemski'),
+          ],
+    'token_endpoint': "https://tokens.indieauth.com/token",
+    'authorization_endpoint': "https://indieauth.com/auth",
+    'authorization_endpoint': "https://indieauth.com/auth",
+    'micropub': "https://davidwilemski.com/micropub"
+}
 
 DEFAULT_PAGINATION = 1
 
