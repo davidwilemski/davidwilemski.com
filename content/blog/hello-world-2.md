@@ -1,5 +1,5 @@
 Title: Hello, World!
-Date: 2010-07-25 23:23
+Date: 2010-07-25 23:23:00
 Author: David Wilemski
 Tags: Uncategorized
 Category: blog

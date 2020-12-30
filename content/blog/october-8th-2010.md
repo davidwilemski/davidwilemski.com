@@ -1,5 +1,5 @@
 Title: October 8th, 2010 
-Date: 2010-10-09 00:16
+Date: 2010-10-09 00:16:00
 Author: David Wilemski
 Tags: photo of the day
 Category: blog

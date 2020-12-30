@@ -1,5 +1,5 @@
 Title: Race Report: Leap Year 4 Miler
-Date: 2012-03-01 11:54
+Date: 2012-03-01 11:54:00
 Author: David Wilemski
 Tags: Races, Running
 Category: blog

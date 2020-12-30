@@ -1,5 +1,5 @@
 Title: Winter Training Recap
-Date: 2013-04-11 01:49
+Date: 2013-04-11 01:49:00
 Author: David Wilemski
 Tags: Races, Running
 Category: blog

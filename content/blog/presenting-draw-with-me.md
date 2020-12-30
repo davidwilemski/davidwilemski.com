@@ -1,5 +1,5 @@
 Title: Presenting: Draw With Me
-Date: 2011-04-03 20:46
+Date: 2011-04-03 20:46:00
 Author: David Wilemski
 Tags: Uncategorized
 Category: blog

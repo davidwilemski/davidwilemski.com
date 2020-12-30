@@ -1,5 +1,5 @@
 Title: Thoughts from a new Android developer
-Date: 2010-07-27 01:21
+Date: 2010-07-27 01:21:00
 Author: David Wilemski
 Tags: Android, Development
 Category: blog

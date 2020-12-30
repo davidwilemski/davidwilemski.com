@@ -1,5 +1,5 @@
 Title: WordCamp 2011 Talk: Intro to WordPress Security
-Date: 2011-11-13 12:24
+Date: 2011-11-13 12:24:00
 Author: David Wilemski
 Tags: Security, Talks, Web Dev
 Category: blog

@@ -1,5 +1,5 @@
 Title: Race Report: Big House Big Heart 2011
-Date: 2011-10-16 21:01
+Date: 2011-10-16 21:01:00
 Author: David Wilemski
 Tags: Races, Running
 Category: blog

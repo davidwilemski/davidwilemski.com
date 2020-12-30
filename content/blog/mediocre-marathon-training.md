@@ -1,5 +1,5 @@
 Title: Mediocre Marathon 'Training'
-Date: 2014-05-13 01:04
+Date: 2014-05-13 01:04:00
 Author: David Wilemski
 Tags: Running, Uncategorized
 Category: blog

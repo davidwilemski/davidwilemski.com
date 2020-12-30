@@ -1,5 +1,5 @@
 Title: Redis
-Date: 2012-10-31 15:05
+Date: 2012-10-31 15:05:00
 Author: David Wilemski
 Tags: Software, Web Dev
 Category: blog

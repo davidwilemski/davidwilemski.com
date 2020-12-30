@@ -1,5 +1,5 @@
 Title: Winter Update
-Date: 2011-02-07 20:31
+Date: 2011-02-07 20:31:00
 Author: David Wilemski
 Tags: photo of the day
 Category: blog

@@ -1,5 +1,5 @@
 Title: September 25th, 2010 
-Date: 2010-09-25 23:01
+Date: 2010-09-25 23:01:00
 Author: David Wilemski
 Tags: photo of the day
 Category: blog

@@ -1,5 +1,5 @@
 Title: Preemptive photo of the day
-Date: 2010-09-22 01:18
+Date: 2010-09-22 01:18:00
 Author: David Wilemski
 Tags: photo of the day
 Category: blog

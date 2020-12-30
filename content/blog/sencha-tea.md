@@ -1,5 +1,5 @@
 Title: Sencha Tea
-Date: 2013-12-10 20:30
+Date: 2013-12-10 20:30:00
 Author: David Wilemski
 Category: blog
 Tags: tea

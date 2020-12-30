@@ -1,5 +1,5 @@
 Title: November 20th, 2010 
-Date: 2010-11-21 04:36
+Date: 2010-11-21 04:36:00
 Author: David Wilemski
 Tags: photo of the day
 Category: blog

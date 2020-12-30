@@ -1,5 +1,5 @@
 Title: Announcing coursegrab: SHIPIT
-Date: 2012-11-18 22:53
+Date: 2012-11-18 22:53:00
 Author: David Wilemski
 Tags: Software, Web Dev
 Category: blog

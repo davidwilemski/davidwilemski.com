@@ -1,5 +1,5 @@
 Title: October 11th, 2010
-Date: 2010-10-15 00:47
+Date: 2010-10-15 00:47:00
 Author: David Wilemski
 Tags: photo of the day
 Category: blog

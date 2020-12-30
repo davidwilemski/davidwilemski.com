@@ -1,5 +1,5 @@
 Title: On recipe sharing and media piracy
-Date: 2010-08-08 12:07
+Date: 2010-08-08 12:07:00
 Author: David Wilemski
 Tags: Opinion
 Category: blog

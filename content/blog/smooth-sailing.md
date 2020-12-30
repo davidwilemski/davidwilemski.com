@@ -1,5 +1,5 @@
 Title: Smooth Sailing
-Date: 2012-03-24 00:02
+Date: 2012-03-24 00:02:00
 Author: David Wilemski
 Tags: Running
 Category: blog

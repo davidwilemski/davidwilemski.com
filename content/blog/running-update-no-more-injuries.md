@@ -1,5 +1,5 @@
 Title: Running Update: No more injuries
-Date: 2011-05-29 22:24
+Date: 2011-05-29 22:24:00
 Author: David Wilemski
 Tags: Running
 Category: blog

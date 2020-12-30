@@ -1,5 +1,5 @@
 Title: Winter and Spring 2014
-Date: 2014-05-05 15:16
+Date: 2014-05-05 15:16:00
 Author: David Wilemski
 Tags: Races, Running
 Category: blog

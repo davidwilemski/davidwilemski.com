@@ -1,5 +1,5 @@
 Title: Disabled CAPTCHA on comments
-Date: 2012-03-15 01:51
+Date: 2012-03-15 01:51:00
 Author: David Wilemski
 Tags: Uncategorized
 Category: blog

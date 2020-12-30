@@ -1,5 +1,5 @@
 Title: A Response to Two-Factor Authentication Might Not Keep You Safe
-Date: 2019-02-10 16:22
+Date: 2019-02-10 16:22:00
 Author: David Wilemski
 Category: blog
 Slug: 2fa-safe-enough

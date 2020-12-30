@@ -1,5 +1,5 @@
 Title: Project Lul
-Date: 2012-11-11 22:13
+Date: 2012-11-11 22:13:00
 Author: David Wilemski
 Tags: Life
 Category: blog

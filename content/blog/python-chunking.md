@@ -1,5 +1,5 @@
 Title: Chunking lists in Python
-Date: 2018-06-03 20:57
+Date: 2018-06-03 20:57:00
 Author: David Wilemski
 Category: blog
 Slug: python-chunking

@@ -1,5 +1,5 @@
 Title: October 20th, 2010 
-Date: 2010-10-26 01:09
+Date: 2010-10-26 01:09:00
 Author: David Wilemski
 Tags: photo of the day
 Category: blog

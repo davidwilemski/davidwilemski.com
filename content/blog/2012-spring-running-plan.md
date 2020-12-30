@@ -1,5 +1,5 @@
 Title: 2012 Spring Running Plan
-Date: 2012-03-05 15:47
+Date: 2012-03-05 15:47:00
 Author: David Wilemski
 Tags: Running
 Category: blog

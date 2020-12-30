@@ -1,5 +1,5 @@
 Title: Create Your WordPress Website Workshop Security Talk
-Date: 2012-04-06 14:35
+Date: 2012-04-06 14:35:00
 Author: David Wilemski
 Tags: Security, Web Dev
 Category: blog

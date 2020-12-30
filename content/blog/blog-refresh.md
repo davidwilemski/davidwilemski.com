@@ -1,5 +1,5 @@
 Title: Blog Refresh
-Date: 2018-01-22 22:05
+Date: 2018-01-22 22:05:00
 Author: David Wilemski
 Category: blog
 Slug: blog-refresh

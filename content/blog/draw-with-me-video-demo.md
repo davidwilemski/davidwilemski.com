@@ -1,5 +1,5 @@
 Title: Draw With Me video demo
-Date: 2011-04-06 01:48
+Date: 2011-04-06 01:48:00
 Author: David Wilemski
 Tags: Software
 Category: blog

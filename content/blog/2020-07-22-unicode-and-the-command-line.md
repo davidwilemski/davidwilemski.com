@@ -1,5 +1,5 @@
 Title: Unicode and command line flag parsing
-Date: 2020-07-22 21:35
+Date: 2020-07-22 21:35:00
 Author: David Wilemski
 Category: blog
 Tags: programming

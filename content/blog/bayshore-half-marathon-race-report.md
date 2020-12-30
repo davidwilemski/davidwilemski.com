@@ -1,5 +1,5 @@
 Title: Bayshore Half Marathon Race Report
-Date: 2013-05-28 09:44
+Date: 2013-05-28 09:44:00
 Author: David Wilemski
 Tags: Races, Running
 Category: blog

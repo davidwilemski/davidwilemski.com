@@ -1,5 +1,5 @@
 Title: Race Report: Passion For Life 5k
-Date: 2012-04-04 23:54
+Date: 2012-04-04 23:54:00
 Author: David Wilemski
 Tags: Races, Running
 Category: blog

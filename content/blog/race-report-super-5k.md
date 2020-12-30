@@ -1,5 +1,5 @@
 Title: Race Report: Super 5K
-Date: 2012-02-14 02:20
+Date: 2012-02-14 02:20:00
 Author: David Wilemski
 Tags: Races, Running
 Category: blog

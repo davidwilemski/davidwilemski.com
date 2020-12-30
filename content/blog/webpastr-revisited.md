@@ -1,5 +1,5 @@
 Title: WebPastr revisited
-Date: 2011-05-26 03:00
+Date: 2011-05-26 03:00:00
 Author: David Wilemski
 Tags: Web Dev
 Category: blog

@@ -1,5 +1,5 @@
 Title: Race Report: Martian 10K 2012
-Date: 2012-04-17 15:49
+Date: 2012-04-17 15:49:00
 Author: David Wilemski
 Tags: Races, Running
 Category: blog

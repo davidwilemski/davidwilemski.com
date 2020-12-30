@@ -1,5 +1,5 @@
 Title: Open Run Log
-Date: 2012-12-27 18:31
+Date: 2012-12-27 18:31:00
 Author: David Wilemski
 Tags: Running, Software, Web Dev
 Category: blog

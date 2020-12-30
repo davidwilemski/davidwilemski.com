@@ -1,5 +1,5 @@
 Title: Productivity in a New Codebase
-Date: 2018-01-28 23:50
+Date: 2018-01-28 23:50:00
 Author: David Wilemski
 Category: blog
 Slug: productivity-new-codebase

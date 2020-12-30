@@ -1,5 +1,5 @@
 Title: Race Report: Shamrocks & Shenanigans 5k 2012
-Date: 2012-03-11 13:00
+Date: 2012-03-11 13:00:00
 Author: David Wilemski
 Tags: Races, Running
 Category: blog

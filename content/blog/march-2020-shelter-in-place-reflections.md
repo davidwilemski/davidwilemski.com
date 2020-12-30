@@ -1,5 +1,5 @@
 Title: Reflections On Shelter-In-Place
-Date: 2020-03-30 22:19
+Date: 2020-03-30 22:19:00
 Author: David Wilemski
 Tags: covid-19
 Category: blog

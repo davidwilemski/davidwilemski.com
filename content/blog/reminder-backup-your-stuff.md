@@ -1,5 +1,5 @@
 Title: Reminder: Backup Your Stuff!
-Date: 2012-11-02 17:53
+Date: 2012-11-02 17:53:00
 Author: David Wilemski
 Tags: Software
 Category: blog

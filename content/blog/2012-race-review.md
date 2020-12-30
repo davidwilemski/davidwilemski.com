@@ -1,5 +1,5 @@
 Title: 2012 Race Review
-Date: 2012-12-09 19:38
+Date: 2012-12-09 19:38:00
 Author: David Wilemski
 Tags: Running
 Category: blog

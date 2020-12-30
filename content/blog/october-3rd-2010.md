@@ -1,5 +1,5 @@
 Title: October 3rd, 2010
-Date: 2010-10-04 02:01
+Date: 2010-10-04 02:01:00
 Author: David Wilemski
 Tags: photo of the day
 Category: blog

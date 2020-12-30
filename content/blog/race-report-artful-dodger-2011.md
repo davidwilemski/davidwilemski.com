@@ -1,5 +1,5 @@
 Title: Race report: Artful Dodger 2011
-Date: 2011-06-29 01:22
+Date: 2011-06-29 01:22:00
 Author: David Wilemski
 Tags: Races, Running
 Category: blog

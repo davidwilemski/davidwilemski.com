@@ -1,5 +1,5 @@
 Title: October 6th, 2010
-Date: 2010-10-07 17:25
+Date: 2010-10-07 17:25:00
 Author: David Wilemski
 Tags: Uncategorized
 Category: blog

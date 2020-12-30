@@ -1,5 +1,5 @@
 Title: How to tie your shoes...
-Date: 2012-02-18 14:21
+Date: 2012-02-18 14:21:00
 Author: David Wilemski
 Tags: Running
 Category: blog

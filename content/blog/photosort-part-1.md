@@ -1,5 +1,5 @@
 Title: Parsing Photo Metadata - Part 1
-Date: 2020-03-01 15:20
+Date: 2020-03-01 15:20:00
 Author: David Wilemski
 Category: blog
 Tags: programming

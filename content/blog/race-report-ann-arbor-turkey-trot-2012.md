@@ -1,5 +1,5 @@
 Title: Race Report: Ann Arbor Turkey Trot 2012
-Date: 2012-11-10 18:21
+Date: 2012-11-10 18:21:00
 Author: David Wilemski
 Tags: Races, Running
 Category: blog

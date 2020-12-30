@@ -1,5 +1,5 @@
 Title: Building a quick and dirty web service on Google app engine: WebPastr
-Date: 2010-10-09 14:14
+Date: 2010-10-09 14:14:00
 Author: David Wilemski
 Tags: Web Dev
 Category: blog

@@ -1,5 +1,5 @@
 Title: Summer Running Recap 2013
-Date: 2014-05-05 14:47
+Date: 2014-05-05 14:47:00
 Author: David Wilemski
 Tags: Races, Running
 Category: blog

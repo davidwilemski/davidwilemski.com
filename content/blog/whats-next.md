@@ -1,5 +1,5 @@
 Title: What's Next?
-Date: 2010-09-22 00:55
+Date: 2010-09-22 00:55:00
 Author: David Wilemski
 Tags: Uncategorized
 Category: blog

@@ -1,5 +1,5 @@
 Title: Summer/Fall Recap
-Date: 2012-10-28 11:52
+Date: 2012-10-28 11:52:00
 Author: David Wilemski
 Tags: Races, Running
 Category: blog

@@ -1,5 +1,5 @@
 Title: Talks
-Date: 2012-02-18 14:24
+Date: 2012-02-18 14:24:00
 Author: David Wilemski
 Slug: talks
 Status: published

@@ -1,5 +1,5 @@
 Title: Why I Wrote My Own URL Shortener
-Date: 2018-02-05 23:25
+Date: 2018-02-05 23:25:00
 Author: David Wilemski
 Category: blog
 Slug: url-shortener
