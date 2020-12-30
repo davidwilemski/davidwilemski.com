@@ -1,5 +1,5 @@
 Title: group_by in Python
-Date: 2018-08-30 9:15:45pm
+Date: 2018-08-30 21:15:45
 Author: David Wilemski
 Category: blog
 Slug: python-group-by

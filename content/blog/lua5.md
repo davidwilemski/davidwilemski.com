@@ -2,7 +2,7 @@ Title: Notes from reading The Implementation of Lua 5.0
 Author: David Wilemski
 Category: blog
 Slug: notes-from-the-implementation-of-lua
-Date: 2018-03-28 11:15pm
+Date: 2018-03-28 23:15
 Status: published
 Tags: papers
 
